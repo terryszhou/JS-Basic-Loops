@@ -102,4 +102,4 @@ var phoneBook = {
 
 ## Nice Job!
 
-![](https://media.giphy.com/media/581Zvttgt7Witjgc0Y/giphy.gif)
+![cat](https://media.giphy.com/media/3jiLBDyAIZnrd8BwTm/giphy.gif)
