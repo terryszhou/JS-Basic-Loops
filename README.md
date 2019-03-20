@@ -25,8 +25,6 @@ node getEven.js
 
 >Hint: You will need to use Math.random()
 
-![Image of cat with red dot](https://gph.is/2Gu8SZa)
-
 <hr>
 
 ## Thermostat
