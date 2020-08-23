@@ -2,6 +2,10 @@
 
 This lab was altered from the source material [here](https://git.generalassemb.ly/wdi-wc-march2018/Homework/tree/master/Week_One/Wednesday/Arrays-Loops-Conditionals).
 
+## Prereqs:
+* Loops
+* Conditionals
+
 ## Directions
 
 Complete these problems on your local machine. When you think you have the answer to one of the problems run it locally with the `node` command. For example:
