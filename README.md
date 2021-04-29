@@ -11,7 +11,7 @@ This lab was altered from the source material [here](https://git.generalassemb.l
 Complete these problems on your local machine. When you think you have the answer to one of the problems run it locally with the `node` command. For example:
 
 ```
-node getEven.js
+node solution.js
 ```
 
 ## Get Even
