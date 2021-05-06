@@ -71,7 +71,7 @@ Have you learned about JavaScript objects yet? If you've got some bonus time, th
 Use a for...in loop to examine the phoneBook Object below and print out the names of all the people who share the phone number "333-333-3333".
 
 ```
-var phoneBook = {
+let phoneBook = {
   "Abe": "111-111-1111",
   "Bob": "222-222-2222",
   "Cam": "333-333-3333",
